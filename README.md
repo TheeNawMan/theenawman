@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/TheeNawMan/theenawman/master/wave.gif" width="30px">
 
-The name is Josh and I enjoy firmware development, software development, infosec, security research and enjoy reading about AI. I'm from Minneapolis MN. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+The name is Josh and I enjoy firmware development, software development, infosec, security research and enjoy reading about AI. I'm from Minneapolis MN.
 
 ## 🔧 Technologies and Tools I currently use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
