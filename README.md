@@ -17,6 +17,7 @@ The name is Josh and I enjoy firmware development, software development, infosec
 vmware
 proxmox
 
+<script src="https://tryhackme.com/badge/317399"></script>
 
 ## &#x1f4c8; GitHub Stats
 
