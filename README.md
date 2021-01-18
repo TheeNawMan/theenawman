@@ -17,7 +17,9 @@ The name is Josh and I enjoy firmware development, software development, infosec
 vmware
 proxmox
 
-<a href="https://tryhackme.com/p/theenawman"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/theenawman.png" alt="TryHackMe" /> </a>
+<a href="https://tryhackme.com/p/theenawman">
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/theenawman.png" alt="TryHackMe" /> 
+</a>
 
 ## &#x1f4c8; GitHub Stats
 
